@@ -1,4 +1,4 @@
 # ナンバースピード
 
-[flowchart](flowcart.puml)
+[flowchart](flowchart.puml)
 @import "flowchart.puml"
