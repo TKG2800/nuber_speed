@@ -1,5 +1,5 @@
 @startuml
-group flowchart
+group Flowchart
 :start;
 :end;
 end group
