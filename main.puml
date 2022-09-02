@@ -1,5 +1,10 @@
 @startuml
+
+
+fork
 !include example.puml
+fork again
 !include flowchart.puml
-Example --> Flowchart
+endfork
+end
 @enduml
