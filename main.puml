@@ -1,0 +1,5 @@
+@startuml
+!include example.puml
+!include flowchart.puml
+Example --> Flowchart
+@enduml
